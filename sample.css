@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header2
+{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/post-bg.jpg);
+padding: 15rem;
+
+background-position: center;
+background-repeat: no-repeat;
+text-align: center;
+}
+#nvbr
+{
+    width: 100%;
+    float: right;
+
+    background-color:none;
+    position: fixed;
+    padding: 1rem 0;
+}
+#nvbr .bootstrap
+{
+    font-size: 26px;
+    float: left;
+    color: #ffffff;
+    padding: 0 2rem ;
+    font-weight: bold;
+
+}
+#nvbr   .aboutservicecontact
+{
+    text-align: right;
+    padding: 0 2rem ;
+
+   
+ }
+ #nvbr .navbar
+ { padding-left:1rem ;
+ text-decoration: none;
+ font-size: 18px;
+ color: white;
+ font-weight: bold;
+ }
+#header2 .headertext{
+    color: white;
+    width: 60%;
+    margin: auto;
+    text-align: left;}
+#header2 .headertext h1{
+    font-size: 3.5rem;
+}
+#header2 .headertext h2{
+    font-size: 1.875rem;
+}
+#text{
+    width: 50%;
+    margin: auto;
+    padding-top: 3rem;
+}
+#text p{
+    padding-bottom: 2rem;
+    font-size: 20px;
+}
+#text h1{
+    padding-bottom: 2rem;
+    font-size: 34px;
+}
+#text .italic{
+    padding-top: 2rem;
+}
+
+#end hr{
+    background-color: darkgrey ;
+   border:none;
+   height: 1px; 
+}
+#end{
+    text-align: center;
+}
+#end h3{
+margin: 3rem auto;
+}
+#textphoto{
+    width: 60%;
+}
+
+#text #textphoto  i{
+    font-size: 280px;
+}

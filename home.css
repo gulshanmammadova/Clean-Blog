@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header
+{
+   background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+padding: 15rem;
+background-position: center;
+text-align: center;
+
+
+}
+#nvbr
+{
+    width: 100%;
+    float: right;
+
+    background-color:none;
+    position: fixed;
+    padding: 1rem 0;
+}
+    #nvbr .bootstrap
+    {
+        font-size: 26px;
+        float: left;
+        color: #000000;
+        padding: 0 2rem ;
+        font-weight: bold;
+
+    }
+    #nvbr   .aboutservicecontact
+    {
+        text-align: right;
+        padding: 0 2rem ;
+
+       
+     }
+    #nvbr .navbar
+     { padding-left:1rem ;
+     text-decoration: none;
+     font-size: 18px;
+     color: white;
+     font-weight: bold;
+     }
+    
+
+      
+#h1
+{
+    color: #fff;      
+    font-size:46px;
+    
+
+}
+
+#p{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+#second{
+   width: 36%;
+   text-align: left;
+   margin: auto;
+   padding: 7rem 0;
+   line-height: 45px;
+  
+}
+#second a{
+    color: black;
+    text-decoration: none;
+
+}
+#second a h1{
+font-size: 45px;
+}
+#second a:hover{
+color: rgb(13, 125, 125);
+}
+#second hr{
+   
+   background-color: darkgrey ;
+   border:none;
+   height: 1px;
+   margin: 2rem auto;
+}
+
+#oldpost{
+    width: 25%;
+  
+   border: 5px solid #89c5d4;
+    text-align: center;
+    background-color: #0085A1;
+}
+#oldpost a{
+margin: auto;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+#end hr{
+    background-color: darkgrey ;
+   border:none;
+   height: 1px; 
+}
+#end{
+    text-align: center;
+}
+#end h3{
+margin: 3rem auto;
+}
